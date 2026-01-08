@@ -1,7 +1,7 @@
 # Context-Aware Chatbot with Memory and Fallback
 
 ## Objective
-Build a chatbot that remembers previous user inputs and responds contextually, even when external AI models are unavailable.
+Build a chatbot that remembers previous user inputs and responds contextually, even when external AI models are unavailable. Also I had to do this in a very resticted time. So I tried to what I could.
 
 ## Features
 - Short-term memory
